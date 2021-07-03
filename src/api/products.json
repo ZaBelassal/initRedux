@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Belgium",
+      "price": 100,
+      "image": "./images/belgium1.jpg",
+      "description": "Belgium Kit"
+    },
+    {
+      "id": 2,
+      "name": "Portugal",
+      "price": 1000,
+      "image": "./images/portugal.jpg",
+      "description": "Portugal Kit"
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "price": 2000,
+      "image": "./images/france.jpg",
+      "description": "France Kit"
+    },
+    {
+      "id": 4,
+      "name": "England",
+      "price": 150,
+      "image": "./images/england.jpg",
+      "description": "England Kit"
+    }
+  ]
